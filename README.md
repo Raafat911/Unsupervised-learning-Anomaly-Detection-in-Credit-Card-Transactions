@@ -9,7 +9,7 @@ Credit Card Fraud Detection – Kaggle
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 - 284,807 transactions  
-- Highly imbalanced (fraud ≈ 0.17%)  
+- Highly imbalanced  (fraud ≈ 0.17%)  
 - PCA-transformed features (`V1`–`V28`) + `Amount`  
 - Labels (`Class`) are **used only for evaluation**, not training
 
